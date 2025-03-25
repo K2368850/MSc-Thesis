@@ -1,3 +1,5 @@
+Final draft: MSc Thesis Final Edits.pdf
+
 Additional resources for "Bayesian VAR and TVP-VAR Models: Do Different Demographics and Socio-Economic Groups Experience Monetary Policy Differently?" that did not make it into the paper due to size constraints.
 
 Images contains state plots, density plots and coefficient heatmaps of fitted TVP-VAR models
